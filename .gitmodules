@@ -1,0 +1,28 @@
+[submodule "host"]
+	path = host
+	url = https://github.com/amiasea/enterprise-host.git
+	branch = .
+[submodule "stack"]
+	path = stack
+	url = https://github.com/amiasea/enterprise-stack.git
+	branch = .
+[submodule "endpoint"]
+	path = endpoint
+	url = https://github.com/amiasea/enterprise-endpoint.git
+	branch = .
+[submodule "operation"]
+	path = operation
+	url = https://github.com/amiasea/enterprise-operation.git
+	branch = .
+[submodule "contract"]
+	path = contract
+	url = https://github.com/amiasea/enterprise-contract.git
+	branch = .
+[submodule "data"]
+	path = data
+	url = https://github.com/amiasea/enterprise-data.git
+	branch = .
+[submodule "ui"]
+	path = ui
+	url = https://github.com/amiasea/enterprise-ui.git
+	branch = .

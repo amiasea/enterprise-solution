@@ -1,0 +1,9 @@
+streams:
+  cerberus:
+    host: gamma
+    stack: gamma
+    endpoint: "*"
+    operation: "*"
+    contract: "*"
+    data: "*"
+    ui: "*"
