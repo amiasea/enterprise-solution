@@ -1,6 +1,6 @@
-[submodule "host"]
-	path = host
-	url = https://github.com/amiasea/enterprise-host.git
+[submodule "host-api"]
+	path = host-api
+	url = https://github.com/amiasea/enterprise-host-api.git
 	branch = .
 [submodule "stack"]
 	path = stack
@@ -25,4 +25,8 @@
 [submodule "ui"]
 	path = ui
 	url = https://github.com/amiasea/enterprise-ui.git
+	branch = .
+[submodule "migration"]
+	path = migration
+	url = https://github.com/amiasea/enterprise-migration.git
 	branch = .
