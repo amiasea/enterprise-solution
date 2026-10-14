@@ -1,0 +1,39 @@
+<Solution>
+	<Folder Name="/data/">
+		<Project Path="data/core/src/Amiasea.Enterprise.Data.Core/Amiasea.Enterprise.Data.Core.csproj" />
+	</Folder>
+	<Folder Name="/data/core/" />
+	<Folder Name="/data/core/test/">
+		<Project Path="data/core/test/Amiasea.Enterprise.Data.Core.Test/Amiasea.Enterprise.Data.Core.Test.csproj" />
+	</Folder>
+	<Folder Name="/endpoint/" />
+	<Folder Name="/endpoint/core/">
+		<Project Path="endpoint/core/src/Amiasea.Enterprise.Endpoint.Core/Amiasea.Enterprise.Endpoint.Core.csproj" />
+	</Folder>
+	<Folder Name="/host-ui/" />
+  <Folder Name="/host-ui/src/">
+      <Project Path="host-ui/src/Amiasea.Enterprise.Host.Ui/Amiasea.Enterprise.Host.Ui.csproj" />
+  </Folder>
+	<Folder Name="/host-api/" />
+	<Folder Name="/host-api/src/">
+		<Project Path="host-api/src/Amiasea.Enterprise.Host.Api/Amiasea.Enterprise.Host.Api.csproj" />
+	</Folder>
+	<Folder Name="/migration/">
+		<Project Path="migration/src/Amiasea.Enterprise.Data.Migration.Core/Amiasea.Enterprise.Data.Migration.Core.csproj" />
+	</Folder>
+	<Folder Name="/contract/">
+		<Project Path="contract/core/src/Amiasea.Enterprise.Contract.Core/Amiasea.Enterprise.Contract.Core.csproj" />
+	</Folder>
+	<Folder Name="/operation/">
+		<Project Path="operation/core/src/Amiasea.Enterprise.Operation.Core/Amiasea.Enterprise.Operation.Core.csproj" />
+	</Folder>
+	<Folder Name="/operation/core/" />
+	<Folder Name="/operation/core/test/">
+		<Project Path="operation/core/test/Amiasea.Enterprise.Operation.Core.Test/Amiasea.Enterprise.Operation.Core.Test.csproj" />
+	</Folder>
+	<Folder Name="/ui/" />
+	<Folder Name="/ui/core/" />
+	<Folder Name="/ui/core/src/">
+		<Project Path="ui/core/src/Amiasea.Enterprise.Ui.Core/Amiasea.Enterprise.Ui.Core.csproj" />
+	</Folder>
+</Solution>

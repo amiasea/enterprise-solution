@@ -1,9 +1,11 @@
-streams:
-  cerberus:
-    host: gamma
-    stack: gamma
-    endpoint: "*"
-    operation: "*"
-    contract: "*"
-    data: "*"
-    ui: "*"
+aspects:
+  host-api: gamma
+  host-ui: gamma
+  stack: gamma
+  endpoint: "*"
+  operation: "*"
+  contract: "*"
+  data: "*"
+  ui: "*"
+  migration: gamma
+  configuration: gamma
